@@ -1,0 +1,1 @@
+This is a prototype project and has been put online to help somebody out. There are known bugs and it is not recommend to replicate the board. At one point a new rev might appear.

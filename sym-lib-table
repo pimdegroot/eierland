@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name led_argb)(type Legacy)(uri ${KIPRJMOD}/led_argb.lib)(options "")(descr ""))
+)
